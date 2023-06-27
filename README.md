@@ -2,7 +2,7 @@
 
 ##  Lasarte, Vassolo, Ghiglione
 
-    Austral 2023 - Electronica Digital - EAM
+    Austral 2023 - Técnicas digitales
 
 
 
