@@ -1,9 +1,8 @@
-#   Project 31-web-led
+#   Proyecto estacionamiento
 
-##  ESP32 Stateless web page for changing LED state
+##  Lasarte, Vassolo, Ghiglione
 
     Austral 2023 - Electronica Digital - EAM
 
-    See doc/README.md for further instructions
 
 
